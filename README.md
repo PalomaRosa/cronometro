@@ -19,7 +19,7 @@ O layout foi inspirado em um curso que realizei, porém o JS foi desenvolvido do
 
 ## Como Usar
 
-1. Acesse o link: https://palomarosa.github.io/cronometro/
+1. Acesse o link: [Cronômetro JavaScript](https://palomarosa.github.io/cronometro/)
 
 ## Tecnologias Utilizadas
 
