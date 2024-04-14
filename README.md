@@ -2,6 +2,8 @@
 
 Este é um projeto de cronômetro simples desenvolvido para aprimorar habilidades de programação e familiarizar-se com JavaScript.
 
+O layout foi inspirado em um curso que realizei, porém o JS foi desenvolvido do zero por mim.
+
 ## Funcionalidades
 
 - **Iniciar**: Inicia o cronômetro.
